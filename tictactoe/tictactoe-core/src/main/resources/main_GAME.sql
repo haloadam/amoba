@@ -1,0 +1,2 @@
+INSERT INTO GAME (id, player1, player2, size, matchTime, roundTime, position, Winner) VALUES (1, 'Alex', 'Adam', 10, 5, 30, null, null);
+INSERT INTO GAME (id, player1, player2, size, matchTime, roundTime, position, Winner) VALUES (2, 'bruh', 'asd', 10, 5, 30, null, null);
